@@ -1,84 +1,82 @@
 ﻿1
 00:00:17,642 --> 00:00:19,518
--[engine idling]
--[chuckles]
+
 
 2
 00:00:21,562 --> 00:00:25,315
-[pips]
+
 
 3
 00:00:25,399 --> 00:00:26,608
-[chuckling]
+
 
 4
 00:00:26,692 --> 00:00:27,734
--Huh?
--[engine stalls]
+Ho?
 
 5
 00:00:27,818 --> 00:00:30,070
-[groans, exclaims]
+
 
 6
 00:00:30,154 --> 00:00:32,573
-[shouting gibberish]
+
 
 7
 00:00:34,534 --> 00:00:36,911
-["Super Mario Bros. Theme" playing]
+
 
 8
 00:00:54,720 --> 00:00:56,722
-[wind whistling]
+
 
 9
 00:01:15,658 --> 00:01:17,993
-[rumbling]
+
 
 10
 00:01:54,697 --> 00:01:57,199
-[shouting]
+
 
 11
 00:01:59,702 --> 00:02:01,078
-[shouts]
+
 
 12
 00:02:17,470 --> 00:02:21,515
-Behold! The king of the Koopas!
+Jen la reĝo de la tesdudoj!
 
 13
 00:02:30,066 --> 00:02:31,358
-[growls]
+
 
 14
 00:02:35,279 --> 00:02:37,114
-[growling]
+
 
 15
 00:02:44,664 --> 00:02:46,165
-[growls]
+
 
 16
 00:02:47,875 --> 00:02:51,128
-Open the gates or die!
+Malfremu la pordojn aŭ mortiĝu!
 
 17
 00:02:51,212 --> 00:02:53,797
-[footsteps approaching]
+
 
 18
 00:02:54,757 --> 00:02:57,926
-[whimpering]
+
 
 19
 00:03:11,649 --> 00:03:12,983
-Attack!
+Ataku!
 
 20
 00:03:13,067 --> 00:03:16,403
-[shouting]
+
 
 21
 00:03:17,488 --> 00:03:18,489
@@ -86,51 +84,51 @@ Attack!
 
 22
 00:03:21,409 --> 00:03:24,036
-[grunting]
+
 
 23
 00:03:24,954 --> 00:03:26,080
-[grunts]
+
 
 24
 00:03:28,582 --> 00:03:31,334
-That is but a taste of our fury.
+Tio estas nur peco de nia kolero.
 
 25
 00:03:31,419 --> 00:03:33,421
-Do you yield?
+Ĉu vi rezignas?
 
 26
 00:03:34,004 --> 00:03:34,963
-[grunting]
+
 
 27
 00:03:35,047 --> 00:03:36,465
-[chuckles]
+
 
 28
 00:03:36,549 --> 00:03:37,841
-I do not.
+Ne.
 
 29
 00:03:38,801 --> 00:03:41,053
-[all gasp, scream]
+
 
 30
 00:03:41,137 --> 00:03:42,680
-[grunts]
+
 
 31
 00:03:58,154 --> 00:04:00,072
-Ah. [cries]
+Ah.
 
 32
 00:04:01,991 --> 00:04:02,992
-No.
+Ne.
 
 33
 00:04:06,162 --> 00:04:08,080
-[gasps] Ah.
+Ah.
 
 34
 00:04:24,597 --> 00:04:25,681
@@ -138,61 +136,55 @@ Ah.
 
 35
 00:04:27,683 --> 00:04:29,184
-[whimpering]
+
 
 36
 00:04:31,520 --> 00:04:32,687
-[grunts]
+
 
 37
 00:04:35,649 --> 00:04:37,984
-[laughs]
+
 
 38
 00:04:38,068 --> 00:04:40,111
-I've finally found it.
+Mi finfine trovis ĝin.
 
 39
 00:04:40,196 --> 00:04:43,657
-And now, no one can stop me!
+Kaj nun, neniu povas halti min!
 
 40
 00:04:45,075 --> 00:04:46,993
-["Super Mario Bros. Theme" playing]
+
 
 41
 00:04:47,077 --> 00:04:49,746
-[singers] ♪ Uh, we're the Mario Brothers
-And plumbing's our game ♪
+
 
 42
 00:04:49,830 --> 00:04:51,790
-♪ We're not like the others
-Who get all the fame ♪
+
 
 43
 00:04:51,874 --> 00:04:54,334
-♪ When your sink is in trouble
-You can call us on the double ♪
+
 
 44
 00:04:54,418 --> 00:04:56,962
-♪ We're faster than the others
-You'll be hooked on the brothers ♪
+
 
 45
 00:04:57,046 --> 00:04:58,881
--[singers] ♪ Huh! ♪
--It's-a me, a-Mario!
+Estas mi, Mario!
 
 46
 00:04:58,964 --> 00:05:00,131
-And-a Luigi!
+Kaj Luiĝi!
 
 47
 00:05:00,216 --> 00:05:02,551
-Are you-a tired of a-paying
-too much for plumbing?
+Ĉu vi estas laca pro multekosta tubriparo?
 
 48
 00:05:02,635 --> 00:05:04,136
@@ -200,26 +192,24 @@ Mamma mia!
 
 49
 00:05:04,220 --> 00:05:06,347
-That's a-why
-the Super Mario Brothers are here.
+Tial la Super Mario Brothers estas ĉi tie,
 
 50
 00:05:06,430 --> 00:05:08,557
--A-to save Brooklyn.
--[Luigi] And-a Queens.
+por savi Broklinon,
+kaj Kvinzon,
 
 51
 00:05:08,641 --> 00:05:09,767
-[Mario] And-a your wallet.
+kaj vian monujon!
 
 52
 00:05:09,850 --> 00:05:11,434
-Thank you, Super Mario Bros.
+Dankon, Super Mario Bros.
 
 53
 00:05:11,519 --> 00:05:15,189
-It seems like the only thing
-you haven't drained is my bank account.
+Ŝajnas, ke vi drenis ĉion krom mia bankokonto.
 
 54
 00:05:15,272 --> 00:05:18,984
