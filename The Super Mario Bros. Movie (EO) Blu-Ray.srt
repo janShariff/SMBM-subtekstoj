@@ -1,4 +1,4 @@
-﻿1
+1
 00:02:11,000 --> 00:02:14,880
 Jen la reĝo de la tesdudoj!
 
@@ -393,190 +393,186 @@ Ho, ŭaŭ. Ni sukcesis.
 
 93
 00:08:16,021 --> 00:08:18,220
-The drip is right upstairs
-at the end of the hall.
+La guto estas supre ĉe la
+fino de la koridoro.
 
 94
 00:08:18,301 --> 00:08:20,101
--Can you fix it?
--[Mario] Very confident, sir.
+Ĉu vi povas ripari ĝin?
+Tre certe, sinjoro.
 
 95
 00:08:20,181 --> 00:08:21,981
-You'll be careful about making a mess?
+Vi ne faros malordon, ĉu ne?
 
 96
 00:08:22,061 --> 00:08:24,341
 Ma'am, I assure you,
 we don't make messes.
+Sinjorino, mi certigas
+vin, ke ni ne malordigas.
 
 97
 00:08:24,421 --> 00:08:26,342
-We fix 'em. [chuckles]
+Ni ordigas.
 
 98
 00:08:27,302 --> 00:08:28,541
-That's Francis.
+Jen Francis.
 
 99
 00:08:28,621 --> 00:08:31,101
-[gasps] He likes you!
+Li ŝatas vin!
 
 100
 00:08:31,182 --> 00:08:32,142
-[object crunches]
+
 
 101
 00:08:32,861 --> 00:08:34,381
-[Francis whines]
+
 
 102
 00:08:34,462 --> 00:08:36,982
--[chuckles] Hey.
--[growls]
+Hej.
 
 103
 00:08:38,342 --> 00:08:40,301
--[growls]
--Mama, mama, mama love ya, baby.
+Panjo, panjo, panjo amas vin, kara.
 
 104
 00:08:41,063 --> 00:08:42,263
--[chuckles]
--[Luigi yelps]
+
 
 105
 00:08:46,062 --> 00:08:47,062
-[yelps]
+
 
 106
 00:08:47,142 --> 00:08:48,102
-[Mario] Wrench?
+Boltilo?
 
 107
 00:08:52,023 --> 00:08:55,263
-Mm-hmm. [smacks lips]
-And a first job complete.
+Mm-hmm.
+Kaj unua tasko finita.
 
 108
 00:08:57,183 --> 00:08:58,503
--Hey!
--Hey!
+Hej!
+Hej!
 
 109
 00:08:59,063 --> 00:09:00,062
-[both gasp]
+
 
 110
 00:09:00,144 --> 00:09:01,543
-Francis is here. [gasps]
+Fancis estas ĉi tie.
 
 111
 00:09:03,104 --> 00:09:05,824
-[growling]
+
 
 112
 00:09:07,504 --> 00:09:09,303
-Hey there, pal. [chuckles]
+Hej, amiko.
 
 113
 00:09:10,864 --> 00:09:12,863
--[Luigi screams]
--[Mario grunting]
+
 
 114
 00:09:12,944 --> 00:09:16,103
-[whimpering] Mario! Do something!
+Mario! Faru ion!
 
 115
 00:09:16,744 --> 00:09:17,784
-[gasps]
+
 
 116
 00:09:17,864 --> 00:09:18,824
-[Luigi yelps]
+
 
 117
 00:09:20,025 --> 00:09:21,665
--[growls, barking]
--[Mario] Ah!
+Ah!
 
 118
 00:09:25,745 --> 00:09:28,665
-[distorted] Mamma mia!
+Mamma mia!
 
 119
 00:09:28,745 --> 00:09:30,105
-[growling, barking]
+
 
 120
 00:09:33,825 --> 00:09:34,786
-Whew.
+Fu.
 
 121
 00:09:34,865 --> 00:09:36,625
-[Luigi] Uh, Mario?
+Uh, Mario?
 
 122
 00:09:37,865 --> 00:09:39,985
-["L'amour est un oiseau rebelle" playing]
+
 
 123
 00:09:46,866 --> 00:09:47,826
-[yelps]
+
 
 124
 00:09:49,426 --> 00:09:50,226
-[grunts]
+
 
 125
 00:09:50,307 --> 00:09:51,267
-[yelps]
+
 
 126
 00:09:53,106 --> 00:09:55,706
-[grunting]
+
 
 127
 00:09:57,626 --> 00:09:58,786
-[grunts]
+
 
 128
 00:10:06,747 --> 00:10:09,348
-[yelps] That hellhound is gonna escape!
+Tiu hundaĉo eskapos!
 
 129
 00:10:09,987 --> 00:10:11,307
-No, he won't.
+Ne. Li ne eskapos.
 
 130
 00:10:17,628 --> 00:10:18,588
-Whew.
+Fu.
 
 131
 00:10:18,668 --> 00:10:20,028
-Hey, uh, Mario?
+Hej, uh, Mario?
 
 132
 00:10:23,188 --> 00:10:24,908
-Uh, who's a good puppy?
+Uh, kiu estas bona hundeto?
 
 133
 00:10:24,988 --> 00:10:26,268
-[chuckles]
+
 
 134
 00:10:26,348 --> 00:10:27,908
-Who's a good boy?
+Kiu estas bona hundo?
 
 135
 00:10:30,469 --> 00:10:31,429
-[both scream]
+
 
 136
 00:10:35,389 --> 00:10:37,068
--[Francis yelps]
--[both] Hmm?
+Hmm?
 
 137
 00:10:38,589 --> 00:10:39,549
@@ -584,46 +580,45 @@ Hmm.
 
 138
 00:10:40,989 --> 00:10:43,068
-[groaning]
+
 
 139
 00:10:45,030 --> 00:10:46,469
-[grunts]
+
 
 140
 00:10:48,789 --> 00:10:49,749
-[both gasp]
+
 
 141
 00:10:51,910 --> 00:10:53,910
--Found the problem!
--[barks]
+Trovis la problemon!
 
 142
 00:10:53,990 --> 00:10:56,189
--[Uncle Arthur] Ma, you make these?
--[Mom] Ah, good batch, hey?
+Ĉu vi faras ĉi tiujn?
+Ah, bona manĝaĵo, hej?
 
 143
 00:10:56,270 --> 00:10:57,230
-[Uncle Tony laughs]
+
 
 144
 00:10:57,310 --> 00:10:58,709
-[family] Hey-o!
+Hejo!
 
 145
 00:10:58,790 --> 00:10:59,830
-[both] Hey-o!
+Hejo!
 
 146
 00:10:59,910 --> 00:11:04,226
-[chuckles] It's the Super Mario Brothers,
-from the TV!
+Jen la Superaj Fratoj Mario, el la televido
 
 147
 00:11:06,951 --> 00:11:08,750
 They give an Oscar for worst actors?
+Ĉu estas Oskaro por aktoraĉoj?
 
 148
 00:11:08,831 --> 00:11:10,311
