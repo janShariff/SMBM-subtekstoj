@@ -72,11 +72,11 @@ Mamma Mia!
 
 18
 00:05:04,220 --> 00:05:06,347
-Tial ekzistas la Superaj Fratoj Mario,
+Tial ekzistas la Superaj Fratoj Mario.
 
 19
 00:05:06,430 --> 00:05:08,557
-- por savi Broklinon.
+- Por savi Broklinon.
 - Kaj Kvinzon.
 
 20
@@ -95,7 +95,7 @@ kiun vi ne drenis, estas mia bankokonto.
 23
 00:05:15,272 --> 00:05:18,984
 Forgesu la multekostajn tubistojn,
-kiuj ne konas vin.
+kie vi nur estas alia kliento.
 
 24
 00:05:19,068 --> 00:05:22,196
