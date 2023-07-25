@@ -99,8 +99,8 @@ kie vi nur estas alia kliento.
 
 24
 00:05:19,068 --> 00:05:22,196
-Kun la Superaj Fratoj Mario, vi
-estas familiano!
+Kun la Superaj Fratoj Mario,
+vi estas familiano!
 
 25
 00:05:22,279 --> 00:05:23,781
