@@ -1,6 +1,6 @@
 1
 00:02:17,470 --> 00:02:21,515
-Jen la reĝo de la Kupoj!
+Jen la reĝo de la testudoj!
 
 2
 00:02:47,875 --> 00:02:51,128
@@ -76,12 +76,12 @@ Tial ekzistas la Superaj Fratoj Mario,
 
 19
 00:05:06,430 --> 00:05:08,557
-por savi Broklinon,
-kaj Kvinzon,
+- por savi Broklinon.
+- Kaj Kvinzon.
 
 20
 00:05:08,641 --> 00:05:09,767
-kaj vian monujon!
+Kaj vian monujon!
 
 21
 00:05:09,850 --> 00:05:11,435
@@ -94,7 +94,8 @@ kiun vi ne drenis, estas mia bankokonto.
 
 23
 00:05:15,272 --> 00:05:18,984
-Forgesu la multekostajn tubistojn, kiuj ne konas vin.
+Forgesu la multekostajn tubistojn,
+kiuj ne konas vin.
 
 24
 00:05:19,068 --> 00:05:22,196
@@ -462,7 +463,8 @@ de televido!
 
 109
 00:11:36,278 --> 00:11:38,155
-Ĉu ekzistas Oskaro por la plej aĉaj aktoroj?
+Ĉu ekzistas Oskaro
+por la plej aĉaj aktoroj?
 
 110
 00:11:38,238 --> 00:11:39,843
@@ -790,7 +792,7 @@ Eta ĉampinjonulo parolas al mi.
 187
 00:17:51,778 --> 00:17:54,322
 Mi plezuras renkonti vin.
-Mi estas Toad.
+Mi estas Todo.
 
 188
 00:17:55,031 --> 00:17:56,908
@@ -798,11 +800,11 @@ Mario.
 
 189
 00:17:59,786 --> 00:18:00,787
-Do ni estas ...
+Do mi estas ...
 
 190
 00:18:00,870 --> 00:18:02,914
-Ĉu ... Ĉu ni ne estas en sonĝo?
+Ĉu ... Ĉu mi ne estas en sonĝo?
 
 191
 00:18:02,998 --> 00:18:04,124
@@ -818,7 +820,7 @@ Do vi certe ne sonĝas.
 
 194
 00:18:07,294 --> 00:18:08,920
-Do ... Ni estas en ...
+Do ... Mi estas en ...
 
 195
 00:18:09,004 --> 00:18:11,881
@@ -918,7 +920,7 @@ Kie vi estas?
 
 217
 00:20:25,765 --> 00:20:28,268
-Jes!
+Haha! Jes!
 
 218
 00:20:28,351 --> 00:20:30,729
@@ -953,17 +955,17 @@ Pardonu min.
 
 225
 00:22:08,117 --> 00:22:10,578
-Pardonu min, ĉiuj.
-Ni nur pasas.
+Pardonu min, ĉiuj!
+Ni nur pasas!
 
 226
 00:22:10,662 --> 00:22:13,873
-Lia frato tuj mortos.
+Lia frato tuj mortos!
 
 227
 00:22:13,957 --> 00:22:15,250
 - Kio?
-- Foriru, bonvole.
+- Foriru, bonvole!
 
 228
 00:22:15,333 --> 00:22:17,001
@@ -1002,7 +1004,7 @@ Atendu, supren?
 
 236
 00:22:51,077 --> 00:22:54,998
-Do ĉi tiuj brikoj
+Ho! Do ĉi tiuj brikoj
 povas hazarde ŝvebi?
 
 237
@@ -1012,7 +1014,7 @@ kaj ni certe renkontos la princinon.
 
 238
 00:22:57,417 --> 00:22:59,252
-Eas la sola rimedo por flugi, ulo!
+Estas la sola rimedo por flugi, ulo!
 
 239
 00:23:02,589 --> 00:23:04,007
@@ -1437,16 +1439,16 @@ Mia armeo!
 
 339
 00:32:30,656 --> 00:32:32,491
-- Kupoj ...
+- Testudoj,
 - Jes!
 
 340
 00:32:32,575 --> 00:32:34,034
-Gumboj,
+kaŝtanuloj,
 
 341
 00:32:34,118 --> 00:32:36,203
-kion ajn tiuj uloj estas!
+kio ajn tiuj nomiĝas!
 
 342
 00:32:36,287 --> 00:32:39,290
@@ -2598,7 +2600,7 @@ Mi ne kredas tion.
 617
 00:57:08,299 --> 00:57:10,217
 Venu al Broklino.
-Mi portos testudon por vi.
+Mi portos testudon al vi.
 
 618
 00:57:10,301 --> 00:57:12,678
@@ -2651,7 +2653,7 @@ En defendaj pozicioj!
 
 630
 00:58:09,944 --> 00:58:12,196
-Mario, vi estas mortonta.
+Mario, vi estas mortonto.
 
 631
 00:58:16,033 --> 00:58:17,284
