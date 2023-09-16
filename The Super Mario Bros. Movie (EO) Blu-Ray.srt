@@ -2908,7 +2908,7 @@ Estas la horo por la festo!
 
 692
 01:06:13,343 --> 01:06:18,474
-<i>Vivi en malliberejo estas tre, tre malfeliĉa</i>
+<i>Vivi en malliberejo estas tre, tre malfeliĉe</i>
 
 693
 01:06:24,938 --> 01:06:27,649
@@ -3261,7 +3261,7 @@ Aŭ ĉu vi tro timas?
 
 776
 01:17:52,125 --> 01:17:54,794
-<i>Tial ekzistas la Superaj Fratoj Mario,</i>
+<i>Tial ekzistas la Superaj Fratoj Mario.</i>
 
 777
 01:17:54,878 --> 01:17:57,964
