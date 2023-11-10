@@ -299,7 +299,7 @@ Venu, Luĉjo. Ne timu.
 
 70
 00:07:47,466 --> 00:07:48,634
-Vi pardonu.
+Pardonu vin.
 
 71
 00:07:49,176 --> 00:07:51,178
@@ -324,12 +324,12 @@ Mia kulpo!
 76
 00:08:11,907 --> 00:08:14,034
 - For!
-- Mi ... pardonas.
+- Mi ... pardonpetas.
 
 77
 00:08:14,118 --> 00:08:15,869
 - Ni laboras!
-- Mi pardonegas.
+- Mi pardonpetegas.
 
 78
 00:08:21,041 --> 00:08:22,918
@@ -778,7 +778,7 @@ Ne tuŝu tiun fungon aŭ vi mortos!
 
 184
 00:17:44,646 --> 00:17:46,648
-Ho, mi pardonas.
+Ho, mi pardonpetas.
 
 185
 00:17:46,731 --> 00:17:48,233
@@ -2337,7 +2337,7 @@ Kio je ...
 
 555
 00:51:10,024 --> 00:51:11,401
-Mi pardonas. Mi pardonas.
+Mi pardonpetas. Mi pardonpetas.
 
 556
 00:51:11,484 --> 00:51:12,569
@@ -3092,6 +3092,7 @@ Jes! Fajro!
 735
 01:10:58,795 --> 01:11:00,338
 Kiel amuze!
+
 736
 01:11:01,798 --> 01:11:04,009
 Vi perdis ĝin!
